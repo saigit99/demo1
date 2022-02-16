@@ -7,7 +7,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
-	<name>krishinademoproj-working(1)</name>
+	<name>krishinademoproj</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -30,7 +30,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>saikarru4</username>
 						<password>Sai12345</password>
-						<applicationName>demoproj333</applicationName>
+						<applicationName>demoproj3333</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
