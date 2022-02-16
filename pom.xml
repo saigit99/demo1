@@ -30,7 +30,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>saikarru4</username>
 						<password>Sai12345</password>
-						<applicationName>demoproj3333</applicationName>
+						<applicationName>demoproj44</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
